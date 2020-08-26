@@ -1,0 +1,36 @@
+
+														
+<!-- Qué haremos hoy 24-08-20-->         		<!--Qué haremos hoy 25-08-20-->													
+														
+-Diseñar el Flujo a papel y lápiz.			-Leer Readme.								
+-Definir Usuario a quien va definida la app.		-Crear Prototipo Baja fidelidad en invision.										
+-Organizar Trello.					-Crear Prototipo Alta Fidelidad en Figma.							
+							- Definición de nombre de marca.											
+																		
+																
+																	
+													
+																
+<!--Qué haremos hoy 26-08-20-->				<!--Qué haremos hoy 27-08-20-->												
+
+- Seguir trabajando Prototipo A.Fid´ móvilfirst.	- Encuestas				
+- Feedback.						- Definir paleta de colores.										
+- Historias de Usuario.					- Prototipo de A. F. para desktop.									
+- Creacion de proyecto en Firebase. 			- Feedback.									
+- Comenzar con HTML y CSS.												
+																					
+												
+												
+															
+													
+														
+										
+												
+													
+												
+									
+													
+													
+								
+
+														
